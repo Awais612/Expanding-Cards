@@ -31,6 +31,8 @@ body {
   margin: 10px;
   position: relative;
   transition: flex 0.7s ease-in;
+  /* padding-left: 8rem;
+  padding-bottom: 8rem; */
 }
 
 .panel h3{
@@ -38,7 +40,8 @@ body {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  margin: 0;
+  padding-left:3rem;
+
   opacity: 0;
 }
 
